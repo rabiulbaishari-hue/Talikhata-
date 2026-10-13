@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TallyKhata</string>
+    <string name="creator_name">Md. Rabiul Islam</string>
+    <string name="creator_name_bn">এমডি রবিউল ইসলাম</string>
+    <string name="creator_email">rabiul.baishari@gmail.com</string>
+    <string name="creator_phone">+8801700000000</string>
+    <string name="welcome_message">স্বাগতম টালিখাতা অ্যাপস</string>
+    <string name="welcome_subtitle">ক্রিয়েট বাই এমডি রবিউল ইসলাম (rabiul.baishari@gmail.com)</string>
+</resources>

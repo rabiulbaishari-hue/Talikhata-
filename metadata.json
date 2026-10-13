@@ -1,0 +1,6 @@
+{
+  "name": "TallyKhata",
+  "description": "Digital ledger book for businesses with customer and supplier accounts, cash box, biometric and PIN security, PDF statement export, and cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
